@@ -1,0 +1,37 @@
+{
+  "id": "1464067",
+  "name": "kaolaIcon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "113537",
+      "name": "叹号",
+      "font_class": "warn",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "693582",
+      "name": "知识产权",
+      "font_class": "zhishichanquanguanli",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "1012117",
+      "name": "客服",
+      "font_class": "unie737",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "7956371",
+      "name": "帮助",
+      "font_class": "bangzhu",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}
